@@ -1,6 +1,6 @@
 
 
-package com.company.Lesson4;
+package com.company.Lesson;
 import java.util.Scanner;
 class Exercise6HW4 {
     public static void main(String[] args)

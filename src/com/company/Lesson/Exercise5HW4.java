@@ -1,4 +1,4 @@
-package com.company.Lesson4;
+package com.company.Lesson;
 import java.util.Scanner;
 
 public class Exercise5HW4 {

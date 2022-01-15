@@ -1,4 +1,4 @@
-package com.company.Lesson5;
+package com.company.Lesson4;
 import java.util.Scanner;
 public class Task4 {
     public static void main(String[] args) {

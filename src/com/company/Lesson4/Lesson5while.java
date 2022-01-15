@@ -1,4 +1,4 @@
-package com.company.Lesson5;
+package com.company.Lesson4;
 
 public class Lesson5while {
     public static void main(String[] args) {
