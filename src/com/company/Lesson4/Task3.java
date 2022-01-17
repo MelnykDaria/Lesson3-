@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int[] arr = new int[]{10, 11, 12, 13, 14};
+        int[] arr = new int[]{1, 2, 3, 4, 5};
         int expectedInt = scanner.nextInt();
         boolean result = false;
         int[] test = new int[]{};
